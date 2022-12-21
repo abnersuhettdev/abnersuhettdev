@@ -6,7 +6,8 @@
  
 ## Eu sou o Abner!
  
-… Um jovem Dev apaixonado por tecnologia, especialmente pelo Front-End!
+… Um jovem Dev apaixonado por tecnologia, especialmente pelo Front-End.
+Gosto de ouvir musicas, assistir filmes, séries e jogar League of Legends!
 
 ## Tecnologias que domino e pratico:
 
