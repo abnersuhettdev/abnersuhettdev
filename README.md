@@ -14,6 +14,7 @@
 - Javascript
 - Bootstrap
 - React
+- Git
 
   
 ## Sobre mim:
