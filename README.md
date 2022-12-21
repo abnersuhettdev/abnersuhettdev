@@ -7,7 +7,8 @@
 ## Eu sou o Abner!
  
 … Um jovem Dev apaixonado por tecnologia, especialmente pelo Front-End.
-Gosto de ouvir musicas, assistir filmes, séries e jogar League of Legends!
+Estou cursando Análise e desenvolvimento de sistemas pela Estácio.
+Sou arquivista de documentos na Coca-Cola, no tempo livre gosto de ouvir musicas, assistir filmes, séries e jogar League of Legends!
 
 ## Tecnologias que domino e pratico:
 
