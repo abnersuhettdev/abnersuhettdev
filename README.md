@@ -29,8 +29,7 @@
 ## Sobre mim:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abnersuhettdev)](https://github.com/abnersuhettdev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-suhett-8bbb45175/)](https://www.linkedin.com/in/abner-suhett-8bbb45175/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=24993129149&text=Hello!)](https://api.whatsapp.com/send?phone=24993129149&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abner.suhett@gmail.com)](mailto:abner.suhett@gmail.com)
+
  
 - Thanks for visiting. 
 
