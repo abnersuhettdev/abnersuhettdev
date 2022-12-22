@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="300" height="300" src="https://i.gifer.com/4Snj.gif">
+<img align="right" width="300" height="300" src="https://i.pinimg.com/originals/3a/fc/05/3afc05ad6ff20f864a452c5312ebb41e.gif">
  
 # Bem Vindo!
  
