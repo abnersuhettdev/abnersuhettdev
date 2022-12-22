@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="400" height="400" src="https://acegif.com/wp-content/uploads/gifs/hello-47.gif">
+<img align="right" width="300" height="300" src="https://i.gifer.com/4Snj.gif">
  
 # Bem Vindo!
  
