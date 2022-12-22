@@ -33,5 +33,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abner.suhett@gmail.com)](mailto:abner.suhett@gmail.com)
  
 - Thanks for visiting. 
+
+![Snake animation](https://github.com/abnersuhettdev/montoyaaa/blob/output/github-contribution-grid-snake.svg)
  
 - Enjoy it!! o/
