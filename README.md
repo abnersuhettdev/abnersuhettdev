@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi There 👋, Bem Vindo! 
 
 <img align="right" width="300" height="300" src="https://i.pinimg.com/originals/3a/fc/05/3afc05ad6ff20f864a452c5312ebb41e.gif">
- 
-# Bem Vindo!
- 
+
 ## Eu sou o Abner!
  
 … Um jovem Dev apaixonado por tecnologia, especialmente pelo Front-End.
 <br/>
-- Estou cursando Análise e desenvolvimento de sistemas pela Estácio.
+- Estou cursando Análise e desenvolvimento de sistemas.
 
-- Sou arquivista de documentos na Coca-Cola.
+- Trabalho na Coca-Cola.
 
 - No tempo livre gosto de ouvir musicas, assistir filmes, séries e jogar League of Legends!
 
@@ -24,8 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnersuhettdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-  
 ## Sobre mim:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/abnersuhettdev)](https://github.com/abnersuhettdev)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/abner-suhett-8bbb45175/)](https://www.linkedin.com/in/abner-suhett-8bbb45175/)
