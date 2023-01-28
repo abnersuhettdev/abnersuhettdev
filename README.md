@@ -30,6 +30,6 @@
  
 - Thanks for visiting. 
 
-![Snake animation](https://github.com/abnersuhettdev/montoyaaa/blob/output/github-contribution-grid-snake.svg)
+https://github.com/abnersuhettdev/abnersuhettdev/blob/output/github-contribution-grid-snake-dark.svg
  
 - Enjoy it!! o/
