@@ -14,10 +14,10 @@
 
 ## Tecnologias que domino e pratico:
 
-- HTML, CSS
-- Javascript
-- Bootstrap
-- React
+- HTML, CSS 
+- Javascript       -Typescript
+- Bootstrap        -NodeJS
+- React            -PostgreSQL
 - Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnersuhettdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
