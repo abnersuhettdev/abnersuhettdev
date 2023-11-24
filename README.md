@@ -4,11 +4,11 @@
 
 ## Eu sou o Abner!
  
-… Um jovem Dev apaixonado por tecnologia, especialmente pelo Front-End.
+… Um jovem Dev apaixonado por tecnologia!
 <br/>
-- Estou cursando Análise e desenvolvimento de sistemas.
+- Formado em Análise e desenvolvimento de sistemas.
 
-- Trabalho na Coca-Cola.
+- Trabalho na W3K, como Desenvolvedor Trainee.
 
 - No tempo livre gosto de ouvir musicas, assistir filmes, séries e jogar League of Legends!
 
@@ -21,6 +21,9 @@
 - Git
 - NodeJS
 - PostgreSQL
+- c#
+- .NetCore
+- MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnersuhettdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
