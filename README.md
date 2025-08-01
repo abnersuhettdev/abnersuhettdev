@@ -8,8 +8,6 @@
 <br/>
 - Formado em Análise e desenvolvimento de sistemas.
 
-- Trabalho na W3K, como Desenvolvedor Trainee.
-
 - No tempo livre gosto de ouvir musicas, assistir filmes, séries e jogar League of Legends!
 
 ## Tecnologias que domino e pratico:
