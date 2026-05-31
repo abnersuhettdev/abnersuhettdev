@@ -55,48 +55,6 @@ OAuth2 · JWT · Firebase Authentication
 ```
 LLMs · Chatbots · Copilots · AI-powered interfaces
 ```
-
----
-
-## What I've been building
-
-### 🗂 KeyDrive — Cloud Storage Platform
-> *Google Drive-inspired platform built at Growdev*
-
-A full-featured cloud storage application covering file upload, folder structures, role-based permissions, and retrieval at scale.
-
-**Stack:** React.js · TypeScript · C# · .NET · MongoDB · JWT
-
----
-
-### 📊 Financial Dashboards & Marketing Tools
-> *GK Company — Marketing Tech*
-
-Dashboards, landing pages, product pages and financial software shipped end-to-end — with Redis caching, Docker deployments and domain configuration via Cloudflare.
-
-**Stack:** React.js · Next.js · TypeScript · Fastify · MySQL · Redis · Docker · Zod
-
----
-
-### 🤖 AI-Powered Interfaces
-> *Freelance projects*
-
-Chatbots and copilots integrated with LLMs, delivered for real-world use cases across international clients.
-
-**Stack:** React.js · Node.js · LLMs · Stripe
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnersuhettdev&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abnersuhettdev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
-
-</div>
-
 ---
 
 ## Let's connect
